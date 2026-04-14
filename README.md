@@ -30,6 +30,11 @@ Install the required Python packages:
 ```bash
 pip install streamlit yt-dlp imageio-ffmpeg mutagen
 ```
+After installing the required Python packages, run:
+
+```bash
+streamlit run app.py
+```
 
 ### Authors
 
